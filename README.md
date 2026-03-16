@@ -23,4 +23,4 @@ This project demonstrates backend development skills including API handling,
 database integration, and server-side logic.
 
 ## Author
-Priya
+Priya A
